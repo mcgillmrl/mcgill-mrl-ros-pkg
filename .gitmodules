@@ -1,0 +1,3 @@
+[submodule "ueye_cam"]
+	path = ueye_cam
+	url = git@github.com:anqixu/ueye_cam.git
